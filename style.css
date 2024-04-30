@@ -1,0 +1,38 @@
+.header{
+    margin: 30px;
+}
+.div{
+    margin-left: 200px;
+}
+.div1{
+margin-left: 200px;
+margin-top: 80px;
+}
+.btn{
+    background-image: linear-gradient(rgba(146, 235, 241, 1),rgba(134, 253, 232, 1));
+    border: white;
+    border-radius: 30px;
+    height: 60px;
+    width: 200px;
+    padding:5px;
+    margin-top: 30px;
+}
+.img{
+    height: 654px;
+    width: 654px;
+    margin-top: -210px;
+    margin-left: 400px;
+}
+.para{
+    margin-top: 30px;
+    color:rgba(154, 158, 165, 1);
+}
+@media only screen and (max-width:1270px){
+    .img{
+margin-top: 80px;
+margin-left: -10px;
+padding: 90px;
+margin-top: -20px;
+    }
+}
+    
